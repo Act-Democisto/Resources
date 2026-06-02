@@ -21,7 +21,7 @@
   - [SVG](https://raw.githubusercontent.com/Act-Democisto/Resources/refs/heads/main/Plasters/JP_Const/Article097/JP_Const_Article97.svg), [PNG](https://raw.githubusercontent.com/Act-Democisto/Resources/refs/heads/main/Plasters/JP_Const/Article097/JP_Const_Article97.png), [PDF](https://raw.githubusercontent.com/Act-Democisto/Resources/refs/heads/main/Plasters/JP_Const/Article097/JP_Const_Article97.pdf)
   - A4縦, カラー
 
-すべてダウンロード: [ZIP](), [TAR.XZ](), [TAR.ZSTD]()
+すべてダウンロード: [ZIP](https://raw.githubusercontent.com/Act-Democisto/Resources/refs/heads/main/Plasters/ar/JP_Const.zip), [TAR.XZ](https://raw.githubusercontent.com/Act-Democisto/Resources/refs/heads/main/Plasters/ar/JP_Const.tar.xz), [TAR.ZSTD](https://raw.githubusercontent.com/Act-Democisto/Resources/refs/heads/main/Plasters/ar/JP_Const.tar.zstd)
 
 いずれも　© [Haruka Sato](https://twitter.com/lousanna_beyond) 2026- under [Creative Commons BY-SA 4.0 国際](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
 
